@@ -1,0 +1,33 @@
+:root {
+    --rosa-sorvete: #FF6FB5;
+    --rosa-escuro-hover: #E4589E;
+    --amarelo-baunilha: #FFE98A;
+    --azul-bebe: #A7E3FF;
+    --marrom-chocolate: #6A3B2D;
+    --background-geral: #FFF7FB;
+    --texto-base: #4A2B21;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+
